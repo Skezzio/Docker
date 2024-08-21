@@ -1,0 +1,6 @@
+db
+nextcloud
+.env
+*.logs
+*.tmp
+
